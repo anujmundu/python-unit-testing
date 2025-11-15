@@ -9,6 +9,14 @@ Files included
 - `main_demo.py` — interactive demo script you can run to try the function.
 - `requirements.txt` — declares Python >= 3.8.
 
+Project Structure
+
+- `name_function.py` — implementation of the name formatting function.
+- `test_name_function.py` — unit tests using Python's `unittest` module.
+- `main_demo.py` / `demo_script.py` — small interactive scripts to try the function.
+- `THEORY_EXPLANATION.md`, `TEST_RESULTS.md`, `README.md` — documentation and test output.
+- `requirements.txt` — runtime requirements.
+
 How to run
 
 1. Create a virtual environment (optional but recommended):
@@ -124,6 +132,7 @@ Best practices
 - Use descriptive test method names and short docstrings.
 - Run the test suite often during development.
 - Add tests for edge cases (empty inputs, None values, hyphens/apostrophes, unicode).
+
 
 Author
 
