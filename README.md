@@ -124,3 +124,13 @@ Best practices
 - Use descriptive test method names and short docstrings.
 - Run the test suite often during development.
 - Add tests for edge cases (empty inputs, None values, hyphens/apostrophes, unicode).
+
+Author
+
+Anuj Mundu
+
+🎓 MCA, Maulana Azad National Institute of Technology (MANIT), Bhopal
+
+📧 Email: anujmark.edwin.ame@gmail.com
+
+[LinkedIn](https://www.linkedin.com/in/anuj-mundu) | [GitHub](https://github.com/anujmundu) | [LeetCode](https://leetcode.com/anujmundu)
